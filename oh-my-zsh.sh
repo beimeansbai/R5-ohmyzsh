@@ -6,7 +6,7 @@ fi
 # Initializes Oh My Zsh
 
 # add a function path
-fpath=($ZSH/functions $ZSH/completions $fpath)
+fpath=($ZSH/functions $ZSH/completionss $fpath)
 
 # Load all stock functions (from $fpath files) called below.
 autoload -U compaudit compinit
